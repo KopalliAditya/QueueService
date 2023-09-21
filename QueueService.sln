@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBroker", "Zenoti.MessageBroker\MessageBroker.csproj", "{052DB096-4686-4F6E-80C5-372BEF4B976D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBroker", "MessageBroker\MessageBroker.csproj", "{052DB096-4686-4F6E-80C5-372BEF4B976D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integration.Consumer", "Integration.Consumer\Integration.Consumer.csproj", "{F9DC291B-1605-4289-8C35-4E25054C2A21}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integration.Producer", "Integration.Producer\Integration.Producer.csproj", "{82A431B9-2BC9-4388-8565-456B4E575CAF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBroker.Kafka", "Zenoti.MessageBroker.Kafka\MessageBroker.Kafka.csproj", "{2EA6F6C5-A15E-4B11-96F4-18B165751DBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBroker.Kafka", "MessageBroker.Kafka\MessageBroker.Kafka.csproj", "{2EA6F6C5-A15E-4B11-96F4-18B165751DBF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integration.Entities", "Integration.Entities\Integration.Entities.csproj", "{D9D2B9DF-E514-4D0A-9C64-E6E71AD16099}"
 EndProject

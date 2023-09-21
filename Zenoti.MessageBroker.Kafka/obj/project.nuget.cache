@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yAsZGDLRPuHwNFRoaEnybt2B+ZjHwO9y8J6d1JwG4boRTfU+Hlu/p2cIUCj3bWAO9ZYCS/klOsEwtVogYfjIXw==",
+  "dgSpecHash": "JKY8rif4GKpY4q/+BzxIL3G5VY823haZ/Ru4MiYOe2IZqNqkaJzvt01CLCsXZWHL2cVo3SUVxlpMa6jq+wVUpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aditya\\Downloads\\QueueService-20230921T193811Z-001\\QueueService\\Zenoti.MessageBroker.Kafka\\MessageBroker.Kafka.csproj",
+  "projectFilePath": "C:\\Users\\Aditya\\Source\\Repos\\QueueService\\Zenoti.MessageBroker.Kafka\\MessageBroker.Kafka.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aditya\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
     "C:\\Users\\Aditya\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",

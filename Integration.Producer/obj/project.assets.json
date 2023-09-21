@@ -907,11 +907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aditya\\Downloads\\QueueService-20230921T193811Z-001\\QueueService\\Integration.Producer\\Integration.Producer.csproj",
+      "projectUniqueName": "C:\\Users\\Aditya\\source\\repos\\QueueService\\Integration.Producer\\Integration.Producer.csproj",
       "projectName": "Integration.Producer",
-      "projectPath": "C:\\Users\\Aditya\\Downloads\\QueueService-20230921T193811Z-001\\QueueService\\Integration.Producer\\Integration.Producer.csproj",
+      "projectPath": "C:\\Users\\Aditya\\source\\repos\\QueueService\\Integration.Producer\\Integration.Producer.csproj",
       "packagesPath": "C:\\Users\\Aditya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aditya\\Downloads\\QueueService-20230921T193811Z-001\\QueueService\\Integration.Producer\\obj\\",
+      "outputPath": "C:\\Users\\Aditya\\Source\\Repos\\QueueService\\Integration.Producer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -933,11 +933,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Aditya\\Downloads\\QueueService-20230921T193811Z-001\\QueueService\\Integration.Entities\\Integration.Entities.csproj": {
-              "projectPath": "C:\\Users\\Aditya\\Downloads\\QueueService-20230921T193811Z-001\\QueueService\\Integration.Entities\\Integration.Entities.csproj"
+            "C:\\Users\\Aditya\\source\\repos\\QueueService\\Integration.Entities\\Integration.Entities.csproj": {
+              "projectPath": "C:\\Users\\Aditya\\source\\repos\\QueueService\\Integration.Entities\\Integration.Entities.csproj"
             },
-            "C:\\Users\\Aditya\\Downloads\\QueueService-20230921T193811Z-001\\QueueService\\Zenoti.MessageBroker.Kafka\\MessageBroker.Kafka.csproj": {
-              "projectPath": "C:\\Users\\Aditya\\Downloads\\QueueService-20230921T193811Z-001\\QueueService\\Zenoti.MessageBroker.Kafka\\MessageBroker.Kafka.csproj"
+            "C:\\Users\\Aditya\\source\\repos\\QueueService\\Zenoti.MessageBroker.Kafka\\MessageBroker.Kafka.csproj": {
+              "projectPath": "C:\\Users\\Aditya\\source\\repos\\QueueService\\Zenoti.MessageBroker.Kafka\\MessageBroker.Kafka.csproj"
             }
           }
         }

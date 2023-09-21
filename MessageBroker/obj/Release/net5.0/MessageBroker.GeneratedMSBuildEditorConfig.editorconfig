@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = MessageBroker.Kafka
-build_property.ProjectDir = C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\
+build_property.RootNamespace = MessageBroker
+build_property.ProjectDir = C:\Users\Aditya\Source\Repos\QueueService\Zenoti.MessageBroker\
