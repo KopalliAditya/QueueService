@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Consumer\j0jsgnrh.aad~" />
+    <None Remove="Utilities\4fct1g50.uq0~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zenoti.MessageBroker\MessageBroker.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="1.8.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.14.0" />
+  </ItemGroup>
+
+</Project>

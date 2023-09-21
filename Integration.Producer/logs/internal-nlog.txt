@@ -1,0 +1,4 @@
+2022-03-14 16:16:14.1326 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2022-03-14 16:43:13.6111 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2022-03-14 16:50:10.5891 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2022-03-14 16:54:22.0337 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console

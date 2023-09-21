@@ -1,0 +1,18 @@
+2022-03-14 16:16:15.7249||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-14 16:16:15.8509||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-14 16:16:15.8509||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kopallia\Desktop\Bitbucket\QueueService\Integration.Producer 
+2022-03-14 16:17:56.1585||INFO|Integration.Producer.Services.CodatService|Message received to producer API. Integration.Models.CodatEvent 
+2022-03-14 16:18:01.3587||INFO|Integration.Producer.Services.CodatService|Message sent (value: 'Integration.Models.CodatEvent'). Delivery status: WaitingForActivation 
+2022-03-14 16:37:37.2694||INFO|Integration.Producer.Services.CodatService|Message received to producer API. Integration.Models.CodatEvent 
+2022-03-14 16:37:37.2694||INFO|Integration.Producer.Services.CodatService|Message sent (value: 'Integration.Models.CodatEvent'). Delivery status: WaitingForActivation 
+2022-03-14 16:43:14.3869||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-14 16:43:14.4310||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-14 16:43:14.4398||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kopallia\Desktop\Bitbucket\QueueService\Integration.Producer 
+2022-03-14 16:50:12.9438||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-14 16:50:13.0116||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-14 16:50:13.0259||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kopallia\Desktop\Bitbucket\QueueService\Integration.Producer 
+2022-03-14 16:54:24.3604||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-03-14 16:54:24.4751||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-03-14 16:54:24.4907||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\kopallia\Desktop\Bitbucket\QueueService\Integration.Producer 
+2022-03-14 16:54:36.3264||INFO|Integration.Producer.Services.CodatService|Message received to producer API. Integration.Models.CodatEvent 
+2022-03-14 16:54:36.7850||INFO|Integration.Producer.Services.CodatService|Message sent (value: 'Integration.Models.CodatEvent'). Delivery status: WaitingForActivation 

@@ -1,0 +1,11 @@
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\bin\Debug\net5.0\Zenoti.MessageBroker.deps.json
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\bin\Debug\net5.0\Zenoti.MessageBroker.dll
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\bin\Debug\net5.0\ref\Zenoti.MessageBroker.dll
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\bin\Debug\net5.0\Zenoti.MessageBroker.pdb
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\obj\Debug\net5.0\Zenoti.MessageBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\obj\Debug\net5.0\Zenoti.MessageBroker.AssemblyInfoInputs.cache
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\obj\Debug\net5.0\Zenoti.MessageBroker.AssemblyInfo.cs
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\obj\Debug\net5.0\Zenoti.MessageBroker.csproj.CoreCompileInputs.cache
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\obj\Debug\net5.0\Zenoti.MessageBroker.dll
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\obj\Debug\net5.0\ref\Zenoti.MessageBroker.dll
+C:\Users\kopallia\Desktop\Bitbucket\QueueService\Zenoti.MessageBroker\obj\Debug\net5.0\Zenoti.MessageBroker.pdb

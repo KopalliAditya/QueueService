@@ -1,0 +1,15 @@
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\bin\Debug\net5.0\MessageBroker.Kafka.deps.json
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\bin\Debug\net5.0\MessageBroker.Kafka.dll
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\bin\Debug\net5.0\MessageBroker.Kafka.pdb
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\bin\Debug\net5.0\MessageBroker.dll
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\bin\Debug\net5.0\MessageBroker.pdb
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\MessageBroker.Kafka.csproj.AssemblyReference.cache
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\MessageBroker.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\MessageBroker.Kafka.AssemblyInfoInputs.cache
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\MessageBroker.Kafka.AssemblyInfo.cs
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\MessageBroker.Kafka.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\MessageBroker.Kafka.csproj.CopyComplete
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\MessageBroker.Kafka.dll
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\refint\MessageBroker.Kafka.dll
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\MessageBroker.Kafka.pdb
+C:\Users\Aditya\Downloads\QueueService-20230921T193811Z-001\QueueService\Zenoti.MessageBroker.Kafka\obj\Debug\net5.0\ref\MessageBroker.Kafka.dll
